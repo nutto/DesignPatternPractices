@@ -1,0 +1,1334 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"search",
+				"search_count"
+			],
+			[
+				"end",
+				"end_time_t"
+			],
+			[
+				"start_time",
+				"start_time_t"
+			],
+			[
+				"en",
+				"end_time_t"
+			],
+			[
+				"start",
+				"start_time_t"
+			],
+			[
+				"task",
+				"task_count"
+			],
+			[
+				"bas",
+				"base_daily_api_url"
+			],
+			[
+				"tmp",
+				"tmp_t"
+			],
+			[
+				"str",
+				"strtotime($input['start_time"
+			],
+			[
+				"update",
+				"update_count"
+			],
+			[
+				"con",
+				"const	(aggregate_supplier_statistics_function.inc.php)"
+			],
+			[
+				"sql",
+				"sql_set_param"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"ta",
+				"tasks_can"
+			],
+			[
+				"add",
+				"add_task($url	(rolling_task_helper_class.inc.php)"
+			],
+			[
+				"roll",
+				"rolling_task_helper_obj"
+			],
+			[
+				"function",
+				"function_exists"
+			],
+			[
+				"log",
+				"log_site	(aggregate_supplier_statistics_function.inc.php)"
+			],
+			[
+				"total",
+				"total_count"
+			],
+			[
+				"count",
+				"count_result"
+			],
+			[
+				"star",
+				"start_db_no"
+			],
+			[
+				"op",
+				"option_search"
+			],
+			[
+				"option",
+				"option_order"
+			],
+			[
+				"pic",
+				"pickup_region"
+			],
+			[
+				"pick",
+				"pickup_landmark"
+			],
+			[
+				"joi",
+				"join"
+			],
+			[
+				"em",
+				"empty	(db_act_class.inc.php)"
+			],
+			[
+				"ye",
+				"yesterday_failed_reason"
+			],
+			[
+				"yes",
+				"yesterday_sum"
+			],
+			[
+				"sum",
+				"sum_sql"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"ov",
+				"overview_time"
+			],
+			[
+				"sear",
+				"search_count"
+			],
+			[
+				"order_",
+				"order_failed_count"
+			],
+			[
+				"cl",
+				"clearfix"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"ver",
+				"vertical-align"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"linh",
+				"line-height"
+			],
+			[
+				"font-size",
+				"font-size-excerpt-h"
+			],
+			[
+				"font-size-conte",
+				"font-size-content-m"
+			],
+			[
+				"rgba",
+				"rgba(255,255,255,.15	(bootstrap.min.css)"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"boxs",
+				"box-sizing"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"sq",
+				"sql_date_formate"
+			],
+			[
+				"sw",
+				"swap_time_format"
+			],
+			[
+				"sta",
+				"statistics_sql"
+			],
+			[
+				"fail",
+				"fail_count"
+			],
+			[
+				"defal",
+				"default_fail_callback"
+			],
+			[
+				"defa",
+				"default_success_callback"
+			],
+			[
+				"new",
+				"new_worker"
+			],
+			[
+				"exe",
+				"exec_tasks"
+			],
+			[
+				"tak",
+				"task_can"
+			],
+			[
+				"arr",
+				"array_pop($this"
+			],
+			[
+				"su",
+				"success_callback"
+			],
+			[
+				"m",
+				"mch"
+			],
+			[
+				"curl",
+				"curl_options"
+			],
+			[
+				"ex",
+				"extend"
+			],
+			[
+				"set",
+				"set_cookie_jar	(rolling_task_helper_class.inc.php)"
+			],
+			[
+				"ro",
+				"rolling_task_helper"
+			],
+			[
+				"aggre",
+				"aggregate_range_statistics"
+			],
+			[
+				"tas",
+				"task_list"
+			],
+			[
+				"var_",
+				"var_dump($data"
+			],
+			[
+				"request",
+				"request_options"
+			],
+			[
+				"han",
+				"handler_num"
+			],
+			[
+				"tem",
+				"tmp_time"
+			],
+			[
+				"tm",
+				"tmp_time"
+			],
+			[
+				"or",
+				"order_matched_arr"
+			],
+			[
+				"fai",
+				"failed_matched_arr"
+			],
+			[
+				"ma",
+				"map_key"
+			],
+			[
+				"site",
+				"site_item"
+			],
+			[
+				"mo",
+				"mgo_db_profile"
+			],
+			[
+				"mgo_",
+				"mgo_db_profile"
+			],
+			[
+				"tr",
+				"trim"
+			],
+			[
+				"fu",
+				"full_statistics_table_name"
+			],
+			[
+				"get",
+				"get_or_create_sku"
+			],
+			[
+				"order",
+				"order_failed_count"
+			],
+			[
+				"sku",
+				"sku_id"
+			],
+			[
+				"qu",
+				"query_result"
+			],
+			[
+				"wh",
+				"where"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"si",
+				"site_item"
+			],
+			[
+				"array_",
+				"array_chunk"
+			],
+			[
+				"req",
+				"require_once"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ran",
+				"random_arr"
+			],
+			[
+				"tes",
+				"test_arr_len"
+			],
+			[
+				"array_diff",
+				"array_diff_assoc"
+			],
+			[
+				"un",
+				"unqualified_const"
+			],
+			[
+				"ar",
+				"args_num"
+			],
+			[
+				"fucn",
+				"func_get_args"
+			],
+			[
+				"func_",
+				"func_num_args"
+			],
+			[
+				"is",
+				"is_callable"
+			],
+			[
+				"func",
+				"function_exists"
+			],
+			[
+				"show",
+				"showUsed"
+			],
+			[
+				"print",
+				"printf"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"se",
+				"serialized_a"
+			],
+			[
+				"uns",
+				"unset"
+			],
+			[
+				"private",
+				"private_outer"
+			],
+			[
+				"sim",
+				"simpleTrait"
+			],
+			[
+				"simple",
+				"simpleInterface"
+			],
+			[
+				"return",
+				"returnSelfInfo"
+			],
+			[
+				"retu",
+				"returnSelfBalance"
+			],
+			[
+				"bod",
+				"bodyTagInterface"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"parent",
+				"parentJustShow"
+			],
+			[
+				"fons",
+				"font-size"
+			],
+			[
+				"borr",
+				"border-radius"
+			],
+			[
+				"from",
+				"from	keyword"
+			],
+			[
+				"reque",
+				"request"
+			],
+			[
+				"ur",
+				"urlencode	function"
+			],
+			[
+				"di",
+				"dict	class"
+			],
+			[
+				"div",
+				"div2	statement"
+			],
+			[
+				"_",
+				"_	statement"
+			],
+			[
+				"b",
+				"b	statement"
+			],
+			[
+				"by",
+				"bytes	class"
+			],
+			[
+				"j",
+				"jquery"
+			],
+			[
+				"ie",
+				"ie10-viewport-bug-workaround"
+			],
+			[
+				"inn",
+				"inner2	function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pic",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"cs",
+				"PHP Code Sniffer: Switch coding standard"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"coverto",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"phpcs",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"gitx",
+				"GitX: Open GitX"
+			],
+			[
+				"gix",
+				"PHP Coding Standards Fixer: Fix this file (PHP-CS-Fixer)"
+			],
+			[
+				"git",
+				"GitX: Open GitX"
+			],
+			[
+				"sniff",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"findus",
+				"PHPCompanion:Find Use"
+			],
+			[
+				"defin",
+				"PHPCompanion:Goto Definition Scope"
+			],
+			[
+				"use",
+				"PHPCompanion:Find Use"
+			],
+			[
+				"php",
+				"PHPCompanion:Goto Definition Scope"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"sy",
+				"Set Syntax: PHP"
+			],
+			[
+				"syntax php",
+				"Set Syntax: PHP"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"pcip",
+				"Package Control: Install Package"
+			],
+			[
+				"py",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"python",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"mar",
+				"Markdown HTML Preview"
+			],
+			[
+				"mark",
+				"Markdown HTML Preview"
+			],
+			[
+				"pyth",
+				"SublimeREPL: Python"
+			],
+			[
+				"pyhon",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"pytho",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"prc",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"runcf",
+				"Anaconda: Run Current File Tests"
+			],
+			[
+				"prunc",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"pytonruncu",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"pyrunc",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"pythonrun",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"pythonr",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"pyr",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"pythonrunc",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"pythonrc",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"python runc",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"pyhtcr",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"pyrun",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"runcur",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"run",
+				"Anaconda: Run Current Test"
+			],
+			[
+				"runc",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"runcu",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"runcurren",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"replp",
+				"SublimeREPL: Python"
+			],
+			[
+				"replcons",
+				"SublimeREPL: Python - Sublime Text Console"
+			],
+			[
+				"replcon",
+				"SublimeREPL: Tower Console"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"m",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ma",
+				"Markdown HTML Preview"
+			],
+			[
+				"map",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mp",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"ssm",
+				"Set Syntax: Markdown"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"insall",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 504.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+			"set([1,1,2])",
+			"set(1,1,2)",
+			"print('asdf')",
+			"print('asdf)",
+			"echo 'asdf'",
+			"git ",
+			"list(map(int, a))",
+			"a = [1.01, 2.02]",
+			"list(map(int, a))",
+			"map(int, a)",
+			"print(a)",
+			"a = [1, 2]",
+			"print('asdf')",
+			"echo a",
+			"run",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"def a():",
+			"import os",
+			"print(1)",
+			"python3",
+			"python",
+			"install"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/G/zuzucheProjects/test2/panjiawei/include/aggregate_supplier_statistics_function.inc.php",
+		"/G/zuzucheProjects/test2/panjiawei/include/rolling_task_helper_class.inc.php",
+		"/D/Softwares/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
+		"/D/Softwares/Sublime Text 3/Data/Packages/LESS/README.md",
+		"/D/Softwares/Sublime Text 3/Data/Packages/Less2Css/less2css.sublime-settings",
+		"/D/Softwares/Sublime Text 3/Data/Packages/Less2Css/Default (Windows).sublime-keymap",
+		"/D/Softwares/Sublime Text 3/Data/Packages/User/less2css.sublime-settings",
+		"/F/君的资料/新建文本文档.txt",
+		"/G/zuzucheProjects/test2/panjiawei/aggregate_to_yesterday_statistics_script.php",
+		"/G/zuzucheProjects/test2/_lhm_/index.php",
+		"/G/zuzucheProjects/test2/_lhm_/shop/official/import_match_city_to_shop_official_from_shop.php",
+		"/G/zuzucheProjects/test2/wjl/import.php",
+		"/G/zuzucheProjects/test2/include/db_act_class.inc.php",
+		"/G/zuzucheProjects/test2/_krypton_/include/zuzuche_world_class.inc.php",
+		"/G/zuzucheProjects/test2/panjiawei/api/v1/index.php",
+		"/G/zuzucheProjects/test2/panjiawei/api/v1/controller_function.inc.php",
+		"/G/zuzucheProjects/test2/_corray/world_supplier_price_adjust_class.inc.php",
+		"/G/zuzucheProjects/test2/panjiawei/test.php",
+		"/G/zuzucheProjects/test2/panjiawei/include/mgo_helper_function.inc.php",
+		"/F/君的资料/楚君资料/京东入口.txt",
+		"/G/zuzucheProjects/test2/新人必读/0.新人必读.txt",
+		"/G/zuzucheProjects/test2/panjiawei/include/search_function.inc.php",
+		"/G/zuzucheProjects/test2/panjiawei/include/supplier_statistics_helper_class.inc.php",
+		"/D/Softwares/MongoDB/Server/3.2/mongod.cfg",
+		"/G/tools/bootstrap-3.3.5-dist/css/bootstrap.min.css",
+		"/G/zuzucheProjects/world_manage/supplier/supplier_analysis/test.tpl.htm",
+		"/G/zuzucheProjects/world_manage/supplier/supplier_analysis/api/v1/controller_function.inc.php",
+		"/G/zuzucheProjects/zzc_test/panjiawei/pjw_user_helper_class.inc.php",
+		"/G/zuzucheProjects/world_manage/supplier/supplier_analysis/api/v1/index.php",
+		"/G/zuzucheProjects/world_manage/supplier/supplier_analysis/aggregate_to_yesterday_statistics_script.php",
+		"/G/zuzucheProjects/world/v3/include/db_act_class.inc.php",
+		"/G/zuzucheProjects/world_manage/supplier/supplier_analysis/chart.tpl.htm",
+		"/G/zuzucheProjects/world_manage/supplier/supplier_analysis/charts.php",
+		"/G/zuzucheProjects/world_manage/supplier/supplier_analysis/css/style.css",
+		"/G/zuzucheProjects/world/v3/_wsc_/webuploader/webuploader.custom.js",
+		"/G/zuzucheProjects/world_manage/supplier/supplier_analysis/css/style.less",
+		"/G/zuzucheProjects/world/v3/js/html5/html5canvas.js",
+		"/G/zuzucheProjects/world_manage/supplier/supplier_analysis/js/function.js",
+		"/G/zuzucheProjects/world_manage/supplier/supplier_analysis/include/aggregate_supplier_statistics_function.inc.php",
+		"/G/zzcMaterial/模板实例.txt",
+		"/G/zuzucheProjects/world/v3/js/location.js",
+		"/G/zuzucheProjects/world/v3/airport/js/wsearch.js",
+		"/G/zuzucheProjects/world/v3/book_result_lmc.tpl.htm",
+		"/G/zuzucheProjects/world/v3/css/new_search.css",
+		"/G/zuzucheProjects/world_manage/supplier/supplier_analysis/css/test.php",
+		"/G/zuzucheProjects/world/v3/_bing_/B-JUI/BJUI/plugins/highcharts/highcharts-all.js",
+		"/D/Softwares/Sublime Text 3/Data/Packages/LESS/LESS.sublime-settings",
+		"/D/Softwares/Sublime Text 3/Data/Packages/User/LESS.sublime-settings",
+		"/D/Softwares/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/G/projects/bbxs/Public/css/style.less",
+		"/G/projects/php/style.less",
+		"/G/projects/php/style.css",
+		"/D/Softwares/Sublime Text 3/Data/Packages/Less2Css/README.md",
+		"/G/zuzucheProjects/world_manage/supplier/supplier_analysis/include/supplier_statistics_helper_class.inc.php",
+		"/G/projects/php/asdf.php",
+		"/G/zuzucheProjects/world/v3/partner/admin_login.tpl.htm",
+		"/G/zuzucheProjects/world/v3/partner/oauth/login_success_mafengwo.tpl.htm",
+		"/G/zuzucheProjects/world/v3/partner/user_login.php",
+		"/G/zuzucheProjects/world/v3/partner/admin_login.php",
+		"/G/zuzucheProjects/world/v3/zzc_test/ymh/charisma/php-version/login.php",
+		"/G/zuzucheProjects/world/v3/partner/oauth/login_mafengwo.tpl.htm",
+		"/G/zuzucheProjects/world/v3/_lhm_/captcha/csec/html/login.php",
+		"/G/zuzucheProjects/world/v3/zzc_test/ymh/charisma/login.html",
+		"/G/zuzucheProjects/world/v3/_bing_/B-JUI/login_timeout.html",
+		"/G/zuzucheProjects/zzc_test/ymh/charisma/php-version/login.php",
+		"/G/zuzucheProjects/world_manage/tantu__manage/login_timeout.tpl.htm",
+		"/G/zuzucheProjects/world_manage/style/B-JUI/login_timeout.html",
+		"/G/zuzucheProjects/world/v3/zzc_test/test_grb/login.php",
+		"/G/zuzucheProjects/world/v3/weather/bg/login.php",
+		"/G/zuzucheProjects/world/v3/partner/oauth/login.php",
+		"/G/zuzucheProjects/world/v3/hotel/spider/login.php",
+		"/G/zuzucheProjects/world/v3/_ljx/login.tpl.htm",
+		"/G/zuzucheProjects/world/v3/_cai_/login_test.php",
+		"/G/zuzucheProjects/world/v3/_bing_/B-JUI/login.html",
+		"/G/zuzucheProjects/zzc_test/ymh/charisma/login.html",
+		"/G/zuzucheProjects/world_manage/tantu__manage/login_timeout.php",
+		"/G/zuzucheProjects/world_manage/tantu__manage/login.tpl.htm",
+		"/G/zuzucheProjects/world_manage/style/B-JUI/login.html",
+		"/G/zuzucheProjects/world/v3/_ljx/login.php",
+		"/G/zuzucheProjects/zzc_test/test_grb/login.php",
+		"/G/zuzucheProjects/world_manage/tantu__manage/login.php",
+		"/G/zuzucheProjects/world_manage/car_report/markup_price/log",
+		"/G/zuzucheProjects/world/v3/list_old.php",
+		"/G/zuzucheProjects/world/v3/linebank.htm",
+		"/G/projects/php/demo.php",
+		"/G/zuzucheProjects/world/v3/include/function.inc.php",
+		"/G/projects/php/test.php",
+		"/G/zuzucheProjects/world_manage/supplier/supplier_analysis/include/rolling_task_helper_class.inc.php",
+		"/G/projects/php/rolling_task_helper_class.inc.php",
+		"/G/zuzucheProjects/world/v3/include/finance_invoice/finance_invoice_order_class.inc.php",
+		"/C/Users/acer/Desktop/客服培训/国内租车",
+		"/G/projects/php/index.php",
+		"/D/Softwares/Sublime Text 3/Data/Packages/Default/Preferences.sublime-settings",
+		"/D/Softwares/Sublime Text 3/Data/Packages/User/Side Bar.sublime-settings",
+		"/D/Softwares/Sublime Text 3/Data/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/D/Softwares/Sublime Text 3/Data/Packages/ConvertToUTF8/ConvertToUTF8.sublime-settings",
+		"/D/Softwares/Sublime Text 3/Data/Packages/User/ConvertToUTF8.sublime-settings",
+		"/D/Softwares/Sublime Text 3/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/Softwares/Sublime Text 3/Data/Packages/TortoiseSVN/Default (Windows).sublime-keymap",
+		"/D/Softwares/Sublime Text 3/Data/Packages/Phpcs/phpcs.sublime-settings",
+		"/D/Softwares/Sublime Text 3/Data/Packages/User/phpcs.sublime-settings",
+		"/D/Softwares/Sublime Text 3/Data/Packages/Phpcs/Default (Windows).sublime-keymap",
+		"/D/Softwares/UPUPW_NP7.0-1512.1/UPUPW_NP7.0/PHP7/phpcs",
+		"/C/Users/acer/Desktop/PHP_CodeSniffer-1.5.0RC4/package.xml",
+		"/D/Softwares/UPUPW_NP7.0-1512.1/UPUPW_NP7.0/PHP7/phpcs.bat",
+		"/C/Users/acer/Desktop/sublime-phpcs-master/phpcs.sublime-settings",
+		"/C/Users/acer/Desktop/sublime-phpcs-master/example-settings/windows-8.1-phpcs-fixer-linter.example",
+		"/D/Softwares/Sublime Text 3/Data/Packages/User/SublimeLinter.sublime-settings",
+		"/D/Softwares/Sublime Text 3/Data/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/G/projects/php/efbc7ecf-9c3d-4c69-98f0-cb55c294da63.dmp",
+		"/C/Users/acer/Desktop/客服培训/代理供应商",
+		"/G/zuzucheProjects/world_manage/supplier/supplier_analysis/api/v1/aggregate_supplier_statistics_function.inc.php",
+		"/G/zuzucheProjects/world_manage/order/pre_sale_consultation.php",
+		"/G/zuzucheProjects/world_manage/world_admin_common.inc.php",
+		"/G/projects/bbxs/Application/Frontend/Common/Base_Wechat.class.php",
+		"/G/zuzucheProjects/world_manage/ccic2/js/jws/sourceCode/code/jWebSocket.js",
+		"/G/zuzucheProjects/world_manage/supplier/supplier_analysis/api/v1/rolling_task_helper_class.inc.php",
+		"/G/zzcMaterial/panjiawei.txt",
+		"/G/zuzucheProjects/world_manage/ckeditor/plugins/uicolor/yui/yui.js",
+		"/G/zzcMaterial/zzc命名规则.txt",
+		"/C/Users/acer/Desktop/sublime-phpcs-master/example-settings/windows-7-phpcs-fixer-linter.example",
+		"/D/Softwares/Sublime Text 3/Data/Packages/GitGutter/GitGutter.sublime-settings",
+		"/D/Softwares/Sublime Text 3/Data/Packages/User/PHP Companion.sublime-settings",
+		"/D/Softwares/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-mousemap",
+		"/D/Softwares/Sublime Text 3/Data/Packages/Package Control/Package Control.sublime-settings",
+		"/D/Softwares/Sublime Text 3/Data/Packages/User/php.sublime-build",
+		"/C/Users/acer/AppData/Roaming/Sublime Text 3/Packages/User/windows.sublime-mousema",
+		"/D/Softwares/Sublime Text 3/Data/Packages/PHP Companion/PHP Companion.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"http://test2.zuzuche.com/panjiawei",
+			"http://w.zuzuche.com/crond/supplier_analysis/",
+			"http://test2.zuzuche.com/panjiawei/",
+			"get_failed_order_daily_statistics_t",
+			"fail",
+			"get_search_daily_statistics_t",
+			"search_matched_arr",
+			"flush_daily_search_count",
+			"flush_search_count",
+			"$time",
+			"flush_daily_search_count",
+			"get_search_daily_statistics_t",
+			"search_count",
+			"get_search_daily_statistics_t",
+			"real_search_count",
+			"get_real_search_daily_statistics_t",
+			"get_real_order_daily_statistics_t",
+			"get_mgo_daily_search_statistics_t",
+			"result",
+			"get_real_order_daily_statistics_t",
+			"result",
+			" =  get_mgo_daily_search_statistics_t($start_time_t, $end_time_t);\n    // $search_total = 0;\n    // foreach ($result as $item) {\n    //     $search_total += $item['search_count'];\n    // }",
+			"fail_total",
+			"order_sql",
+			"order",
+			"real_",
+			"real_order_total",
+			"total",
+			"controller_function",
+			"exec_range_controller",
+			"end_time_t",
+			"start_time_t",
+			"end_time",
+			"aggregate_range_statistics",
+			"failed_sql",
+			"->run",
+			");\n",
+			"\n        ",
+			"real_search_count",
+			"dump_daily_controller",
+			"p(",
+			"_update_table_filed",
+			"test_controller",
+			"die",
+			"\");\n",
+			"$data",
+			"data",
+			");\n",
+			"rolling_task_helper_obj",
+			"fail",
+			"task_api_url",
+			"time",
+			"                        )",
+			"{\n    type: '1',\n    user: 'A'\n}",
+			"36247442",
+			"mgo_newest_tbl",
+			" =>",
+			")) ",
+			"();\n",
+			"pickup",
+			"yesterday-failed-chart",
+			");\n",
+			">",
+			"p(",
+			"sum_order",
+			"float",
+			"较上个月",
+			"Glyphicons Halflings",
+			"font-face",
+			"font-family",
+			"font-fa",
+			"gly",
+			"group by",
+			"(\n",
+			"$input",
+			"input",
+			"finished_task",
+			"mhc",
+			"task_can",
+			"get_instance",
+			"rolling_task_helper",
+			"rolling_task_helper_obj",
+			"rolling_task_helper",
+			"+c",
+			"ctrl+shift+c",
+			"delete",
+			"shift+d",
+			"shift+c",
+			"outline",
+			"\\",
+			"\\\\",
+			"\\",
+			"aggregate_log_tbl",
+			"min",
+			"new_search_history_tbl",
+			"$end",
+			"r = '';\n    // foreach ($_COOKIE as $key => $value) {\n    //     $cookie_jar .= \"{$key}={$value}; \";\n    // }\n    // $rolling_task_hel",
+			"die",
+			"aggregate_log",
+			"curl_multi_select",
+			"aggregate_log",
+			"aggregate_failed_log",
+			"aggregate_log",
+			"todo",
+			"log",
+			"full_table_name",
+			"p(",
+			"die",
+			"p(",
+			"^   ([^ ])",
+			"p(",
+			"    \n",
+			");\n",
+			"\\\\",
+			"C:\\\\Program Files (x86)\\\\PHP\\\\PEAR\\\\",
+			"PROPERTY",
+			"MyAwesomeClass",
+			"C:\\\\Program Files (x86)\\\\PHP\\\\php.exe",
+			"  {",
+			"random_arr",
+			"$this->",
+			"bbus.nvps.hardcode.cn",
+			"^",
+			"setup",
+			"testing",
+			"\\\\",
+			"\\| +(\\d+) +\\| +(\\w+) +\\| +(\\w+) +\\| +(\\d) +\\|",
+			"\\| +(\\d+) +\\| +(\\w+) +\\| +(\\w+) +\\|"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"http://test2.zuzuche.com/panjiawei/",
+			"dropoff",
+			"较上个月同期",
+			"\\\\",
+			"\\",
+			"\\\\",
+			"aggregate_log",
+			"    $1",
+			"\\",
+			"D:\\\\Softwares\\\\UPUPW_NP7.0-1512.1\\\\UPUPW_NP7.0\\\\PHP7\\\\",
+			"D:\\\\Softwares\\\\UPUPW_NP7.0-1512.1\\\\UPUPW_NP7.0\\\\PHP7\\\\php.exe",
+			"    {",
+			"arr",
+			"self::",
+			"bbus.demo.nua.nuttopan.cn",
+			" * ",
+			"/",
+			"($1, '$2', '$3', $4),",
+			"($1, '$2', '$3'),",
+			"', '",
+			"($2),",
+			"$2,",
+			"",
+			"''",
+			"'",
+			"yield",
+			"```",
+			" $0 ",
+			"",
+			"\\n",
+			"",
+			"```$1```",
+			"```$```",
+			"highlight php",
+			"highlight console",
+			"```$1```",
+			"",
+			"{% highlight ruby linenos %}$1{% endhighlight %}",
+			"spare",
+			"日志",
+			"订单日志",
+			"+----------------+----------+--------------+----------+------------------------------------------+",
+			"同代理商",
+			"agent_account",
+			"代理商权限",
+			"property_account",
+			":",
+			"",
+			" ",
+			"    ",
+			",",
+			"\"$1\"",
+			",",
+			",$",
+			"",
+			"details[1]",
+			"details[0][$1]$2",
+			"details[0][$1]",
+			"",
+			"\\*          \\+",
+			"",
+			")",
+			"(",
+			"'$1' => $0",
+			"$0$0",
+			",",
+			"\\t",
+			"",
+			" => ",
+			"*     ",
+			"*         ",
+			"*     ",
+			" => ",
+			"*     ",
+			"    \"",
+			"^    \"",
+			"",
+			"*     ",
+			"* ",
+			"*",
+			"=> '$1',",
+			" => ",
+			"",
+			"  ",
+			"",
+			"  ",
+			"    ",
+			"",
+			"a",
+			"$1",
+			"",
+			">",
+			"* ",
+			"# ",
+			"=> '',",
+			"=>",
+			"",
+			" =>",
+			">",
+			" \"",
+			"*",
+			"=>",
+			"",
+			"$1  ",
+			"$0  ",
+			"$1  ",
+			"$1",
+			"$1  ",
+			"|$1|",
+			"|",
+			"|$1",
+			"$1  ",
+			"', '",
+			"local.whale",
+			"\"status_submit\"",
+			"\"serial_number\"",
+			"wp_",
+			"$wpdb->",
+			"连结",
+			"fetch",
+			"16.",
+			"15.",
+			"15-",
+			"",
+			"\"fast\"",
+			"|^n",
+			"|\\n",
+			"|"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 368.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 192.0
+	},
+	"project": "DesignPatternPractises.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"pre_sale_consultation",
+				"order\\pre_sale_consultation.tpl.htm"
+			],
+			[
+				"aggregate_supplier_statistics_function",
+				"supplier\\supplier_analysis\\include\\aggregate_supplier_statistics_function.inc.php"
+			],
+			[
+				"world_admin_common",
+				"world_admin_common.inc.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 190.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
