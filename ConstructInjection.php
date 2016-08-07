@@ -1,7 +1,7 @@
 <?php
 /**
 * 构造注入
-* 
+*
 * @author Nutto nutto.pan@gmail.com
 */
 class Main{
