@@ -34,7 +34,7 @@ class FulltimeEmployee implements Employee {
         $this->work_time = $work_time;
     }
 
-    public function getName($name) {
+    public function getName() {
         return $this->name;
     }
 
@@ -52,7 +52,7 @@ class FulltimeEmployee implements Employee {
 }
 
 // 具体元素类： 兼职员工类
-class FulltimeEmployee implements Employee {
+class ParttimeEmployee implements Employee {
     private $name;  // 员工姓名
     private $weekly_wage;  // 员工周薪
     private $work_time;  // 工作时间
@@ -75,7 +75,7 @@ class FulltimeEmployee implements Employee {
         $this->work_time = $work_time;
     }
 
-    public function getName($name) {
+    public function getName() {
         return $this->name;
     }
 
@@ -114,11 +114,80 @@ class FADepartment extends Department {
                     $weekly_wage = 0;
                 }
             }
+            echo "正式员工{$employee->getName()},实际工资为：{$weekly_wage}元\n";
+        } else if ($employee instanceof ParttimeEmployee) {
+            $work_time = $employee->getWorkTime();
+            $hour_wage = $employee->getHourWage();
+            echo "正式员工{$employee->getName()},实际工资为：{$hour_wage}元\n";
         }
-        echo "正式员工{$employee->getName()},实际工资为：{$weekly_wage}元\n";
     }
 }
 
+
+// 具体访问类: 人力资源部类
+class HRDepartment extends Department {
+
+    public function visit($employee) {
+        if ($employee instanceof FulltimeEmployee) {
+            // 实现人力资源部对全职员工的访问
+            $work_time = $employee->getWorkTime();
+            echo "正式员工{$employee->getName()},实际工作时间为{$work_time}小时\n";
+            if ($work_time > 40) {
+                $t = $work_time - 40;
+                echo "正式员工{$employee->getName()},加班时间为:{$t}小时\n";
+            } else if ($work_time < 40) {
+                $t = 40 - $work_time;
+                echo "正式员工{$employee->getName()},请假时间为:{$t}小时\n";
+            }
+        } else if ($employee instanceof ParttimeEmployee) {
+            // 实现人力资源不对兼职员工的访问
+            $work_time = $employee->getWorkTime();
+            echo "临时工{$employee->getName()},实际工作时间为{$work_time}小时\n";
+        }
+    }
+}
+
+// 对象结构: 员工列表类
+class EmploteeList {
+    // 定义一个集合用于存储员工对象
+    private $list = array();
+
+    public function addEmployee($employee) {
+        array_push($this->list, $employee);
+    }
+
+    // 遍历访问员工集合总中的每一个员工对象
+    public function accept($handler) {
+        foreach ($this->list as $e) {
+            $e->accept($handler);
+        }
+    }
+}
+
+
+class Client {
+    public static function main() {
+        $list = new EmploteeList();
+
+        $fte1 = new FulltimeEmployee('张无忌', 3200, 45);
+        $fte2 = new FulltimeEmployee('杨过', 2000, 40);
+        $fte3 = new FulltimeEmployee('段誉', 2400, 38);
+
+        $pte1 = new ParttimeEmployee('洪七公', 80, 20);
+        $pte2 = new ParttimeEmployee('郭靖', 60, 18);
+
+        $list->addEmployee($fte1);
+        $list->addEmployee($fte2);
+        $list->addEmployee($fte3);
+        $list->addEmployee($pte1);
+        $list->addEmployee($pte2);
+
+        $dep = new FADepartment();
+        $list->accept($dep);
+    }
+}
+
+Client::main();
 
 
 
